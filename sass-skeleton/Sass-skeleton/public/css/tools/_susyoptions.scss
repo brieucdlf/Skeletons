@@ -1,0 +1,12 @@
+// susyOptions.scss
+// copyright 2016 @brieucdlf
+$susy: (
+	container: 60.000em,
+	columns: 12,
+	gutters: .25,
+  	gutter-position: inside
+  	// Pour le debug des grilles
+  	debug: (
+		image: show
+  	)
+);

@@ -1,0 +1,25 @@
+{
+  "name": "csgocasev2",
+  "version": "1.0.0",
+  "description": "csgo case v2",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "brieucdlf",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.17.5",
+    "coffee-script": "^1.11.1",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-changed": "^1.3.2",
+    "gulp-image-resize": "^0.10.0",
+    "gulp-imagemin": "^3.0.3",
+    "gulp-load-plugins": "^1.3.0",
+    "gulp-sass": "^2.3.2",
+    "gulp-size": "^2.1.0",
+    "gulp.spritesmith": "^6.2.1",
+    "susy": "^2.2.12"
+  }
+}
